@@ -1,4 +1,0 @@
-module.export = {
-    googleClientID: '',
-    googleClientSecret: ''
-}
